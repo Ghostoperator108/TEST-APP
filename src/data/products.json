@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "category": "Electronics",
+    "image": "/assets/headphones.jpg",
+    "rating": 4.5,
+    "description": "High quality wireless headphones with noise cancellation.",
+    "reviews": [
+      { "user": "Alice", "comment": "Great sound!", "rating": 5 },
+      { "user": "Bob", "comment": "Very comfortable.", "rating": 4 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "/assets/smartwatch.jpg",
+    "rating": 4.0,
+    "description": "Stay connected and track your health with this smart watch.",
+    "reviews": [
+      { "user": "Charlie", "comment": "Love the fitness features.", "rating": 4 },
+      { "user": "Dana", "comment": "Stylish and functional.", "rating": 4 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 79.99,
+    "category": "Apparel",
+    "image": "/assets/shoes.jpg",
+    "rating": 4.2,
+    "description": "Comfortable running shoes for all terrains.",
+    "reviews": [
+      { "user": "Eve", "comment": "Super comfortable!", "rating": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 49.99,
+    "category": "Accessories",
+    "image": "/assets/backpack.jpg",
+    "rating": 4.7,
+    "description": "Durable backpack with multiple compartments.",
+    "reviews": [
+      { "user": "Frank", "comment": "Very spacious.", "rating": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Coffee Maker",
+    "price": 129.99,
+    "category": "Home Appliances",
+    "image": "/assets/coffeemaker.jpg",
+    "rating": 4.3,
+    "description": "Brew the perfect cup of coffee at home.",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "/assets/mouse.jpg",
+    "rating": 4.6,
+    "description": "Ergonomic gaming mouse with customizable DPI settings.",
+    "reviews": [
+      { "user": "Grace", "comment": "Responsive and smooth.", "rating": 5 }
+    ]
+  }
+]
